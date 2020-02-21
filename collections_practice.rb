@@ -27,7 +27,7 @@ end
  def add_s(array)
   array.each_with_index.collect do |num, index|
    if index !=1 
-     
+     num = num + "s"
    end 
  num = num + "s"
  end

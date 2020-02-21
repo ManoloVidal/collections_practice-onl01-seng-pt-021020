@@ -26,11 +26,10 @@ def sum_array(array)
 end
  def add_s(array)
   array.each_with_index.collect do |num, index|
-  end 
    if index !=1 
- end
  num = num + "s"
  end
+ end 
  
  
 

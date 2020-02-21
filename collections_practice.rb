@@ -29,7 +29,7 @@ end
   end 
    if index !=1 
  end
- num = num + s
+ num = num + "s"
  end
  
  
